@@ -1,8 +1,9 @@
 # Dart-Basico
 
-![DartSide](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png"Dart")
+![DartSide](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png)"Dart"
 
 ##Exercicios e Desafios
+
 Entrega de **_Desafios_** e _Exercicios_
 
 > As pedras no caminho, serao usadas para construir nosso castelo
